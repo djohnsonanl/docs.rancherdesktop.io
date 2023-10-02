@@ -17,7 +17,7 @@ _The above image shows Kubernetes settings on Mac on the left and Windows on the
 
 ## Container Management
 
-Rancher Desktop provides the ability to build, push, and pull container images along with the ability to run containers. This is provided by either the Docker CLI (when you choose Moby/dockerd as you engine) or nerdctl (when you choose containerd as your engine). [nerdctl](https://github.com/containerd/nerdctl) is a "Docker-compatible CLI for containerd" provided by the containerd project.
+Rancher Desktop provides the ability to build, push, and pull container images along with the ability to run containers. This is provided by either the Docker CLI (when you choose Moby/dockerd as your engine) or nerdctl (when you choose containerd as your engine). [nerdctl](https://github.com/containerd/nerdctl) is a "Docker-compatible CLI for containerd" provided by the containerd project.
 
 ## Kubernetes
 
